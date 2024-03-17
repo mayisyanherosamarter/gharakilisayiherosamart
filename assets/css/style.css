@@ -182,7 +182,7 @@ h6 {
   transition: 0.3s;
   font-size: 15px;
   border-radius: 50px;
-  background: #ffffff;
+  background: #ffffff00;
   height: 56px;
   width: 100%;
   overflow: hidden;
@@ -192,7 +192,7 @@ h6 {
 .nav-menu a i,
 .nav-menu a:focus i {
   font-size: 20px;
-  color: #ffffff00;
+  color: #ffffff;
 }
 
 .nav-menu a span,
